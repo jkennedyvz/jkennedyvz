@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkennedyvz security@ [@langchain-ai](https://github.com/langchain-ai/)
+- 👋 Hi, I’m @jkennedyvz security@langchain.dev [@langchain-ai](https://github.com/langchain-ai/)
 - Former red team lead [@theparanoids](https://github.com/theparanoids) [@yahoo](https://github.com/yahoo)
 
 <!---
