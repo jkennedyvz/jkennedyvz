@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jkennedyvz
-- 👀 Red Team professional
+- 👋 Hi, I’m @jkennedyvz security@ @langchain-ai
+- Former red team lead @theparanoids @yahoo
 
 <!---
 jkennedyvz/jkennedyvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
